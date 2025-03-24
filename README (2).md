@@ -141,10 +141,10 @@ The target variable is binary:
 
 For questions, feedback, or collaboration opportunities, feel free to reach out:
 
-- **Name**: Musabbir Km
-- **Email**: musabbirmushu@gmail.com
-- **GitHub**: [your-username](https://github.com/musabbirkm)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/MusabbirKm)
+- **Name**: fathimath sahla p
+- **Email**: fathimathsahla570@gmail.com
+- **GitHub**: github.com/fathimasahla570 
+- **LinkedIn**:linkedin.com/in/fathimath-sahla-p-8a073532aenver 
 
 
 ## Installation
